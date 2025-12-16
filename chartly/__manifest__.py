@@ -16,21 +16,21 @@
     ],
     "assets": {
         "web.assets_backend": [
-            "chartly/static/src/scss/chartly_style.scss",
-            "chartly/static/src/js/chat_widget.js",
-            "chartly/static/src/js/chat_form_controller.js",
-            "chartly/static/src/js/chat_list_controller.js",
-            "chartly/static/src/xml/chat_widget.xml",
+            "static/src/scss/chartly_style.scss",
+            "static/src/js/chat_widget.js",
+            "static/src/js/chat_form_controller.js",
+            "static/src/js/chat_list_controller.js",
+            "static/src/xml/chat_widget.xml",
         ],
     },
     "demo": [
         "demo/chat_demo_data.xml",
     ],
     "images": [
-        "chartly/static/description/screenshots/chartly_main_screenshot.jpg",
-        "chartly/static/description/screenshots/chartly_screenshot_1.png",
-        "chartly/static/description/screenshots/chartly_screenshot_2.png",
-        "chartly/static/description/screenshots/chartly_description_3.png"
+        "static/description/screenshots/chartly_main_screenshot.jpg",
+        "static/description/screenshots/chartly_screenshot_1.png",
+        "static/description/screenshots/chartly_screenshot_2.png",
+        "static/description/screenshots/chartly_description_3.png"
 
     ],
     "installable": True,
