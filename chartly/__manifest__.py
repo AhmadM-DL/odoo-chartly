@@ -7,6 +7,7 @@
     "license": "LGPL-3",
     "author": "Ahmad Mustapha, Ali Sahili",
     "depends": ["base", "web", "account"],
+    "support": "ahmad.m.mustapha@hotmail.com",
     "data": [
         "security/ir.model.access.csv",
         "views/chat.xml",
