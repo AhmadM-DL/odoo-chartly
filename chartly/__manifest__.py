@@ -26,6 +26,13 @@
     "demo": [
         "demo/chat_demo_data.xml",
     ],
+    "images": [
+        "chartly/static/description/screenshots/chartly_main_screenshot.jpg",
+        "chartly/static/description/screenshots/chartly_screenshot_1.png",
+        "chartly/static/description/screenshots/chartly_screenshot_2.png",
+        "chartly/static/description/screenshots/chartly_description_3.png"
+
+    ],
     "installable": True,
     "application": True,
     "auto_install": False,
