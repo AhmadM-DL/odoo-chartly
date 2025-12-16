@@ -51,4 +51,4 @@
 
 ## 📝 License
 
-This project is licensed under the MIT License
+This project is licensed under the LGPL-3 License
